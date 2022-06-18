@@ -21,3 +21,9 @@ You added methods to your Player() constructor using the prototype syntax.
 Write Jest tests that fake data updates to check multiple conditions
 
 Use built-in Array prototype methods
+
+# 10.4
+
+Use the Inquirer package to control the flow of a game or app.
+
+Use object-oriented programming (OOP) to keep all game logic contained in a single object.
