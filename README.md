@@ -27,3 +27,9 @@ Use built-in Array prototype methods
 Use the Inquirer package to control the flow of a game or app.
 
 Use object-oriented programming (OOP) to keep all game logic contained in a single object.
+
+# 10.4
+
+Use method inheritance to cut down on code duplication
+
+Convert constructor functions to ES6 classes to make inheritance even easier
