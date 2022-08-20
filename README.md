@@ -1,35 +1,21 @@
 # jest-another-rpg
 
-# 10.1
+- Github URL: https://github.com/DanielCConlon/jest-another-rpg
 
-Implemented Jest to verify that your objects were created properly.
+## Table-of-Contents
 
-Learned the TDD cycle: Red (fail), Green (pass), Refactor.
+- [Description](#description)
+- [Usage](#usage)
+- [Application](#application)
 
-Wrote a constructor function to generate new objects.
+## [Description](#description)
 
-# 10.2
+Jest Another RPG is a command-line role-playing game created by following the steps of a course module on Inquirer, Object Oriented Programming, and Test Driven Development.
 
-You implemented mocking to keep player tests independent.
+## [Usage](#table-of-contents)
 
-You wrote tests that check for the correct usage of various object methods.
+Clone the repo and run npm i to download all of the npm packages. Run `node app.js` and follow the inquirer prompts.
 
-You added methods to your Player() constructor using the prototype syntax.
+## [Application](#table-of-contents)
 
-# 10.3
-
-Write Jest tests that fake data updates to check multiple conditions
-
-Use built-in Array prototype methods
-
-# 10.4
-
-Use the Inquirer package to control the flow of a game or app.
-
-Use object-oriented programming (OOP) to keep all game logic contained in a single object.
-
-# 10.4
-
-Use method inheritance to cut down on code duplication
-
-Convert constructor functions to ES6 classes to make inheritance even easier
+![Website image](./Capture.PNG)
